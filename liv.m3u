@@ -1,4 +1,1 @@
-<br />
-<b>Warning</b>:  file_get_contents(https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u): Failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
- in <b>/home/premiumc/public_html/api/liv.php</b> on line <b>7</b><br />
-Playlist not loaded.
+#EXTM3U
